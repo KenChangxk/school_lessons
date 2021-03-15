@@ -1,2 +1,2 @@
-# sofyware_project
+# software_project
 one of the school lessons...
